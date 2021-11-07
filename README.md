@@ -14,10 +14,10 @@ A ChatBot 🤖 application using Natural Language Processing.
   
 ## Libraries Used
 Libraries used in this project are as follows:
-- numpy
+- nltk
 - pandas
-- seaborn
 - matplotlib
+- nlp_utils
 - sklearn
 
 ## Installation Setup
