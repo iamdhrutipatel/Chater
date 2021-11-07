@@ -22,27 +22,19 @@ Libraries used in this project are as follows:
 
 ## Installation Setup
 #### 1. Clone the repository
-You can clone this repository using command: ``https://github.com/iamdhrutipatel/Breasttest.git``
+You can clone this repository using command: ``https://github.com/iamdhrutipatel/Chater.git``
 
-#### 2. Open ``Breast_Cancer_Prediction_ANN.ipynb``, ``Breast_Cancer_Prediction_LR_RF.ipynb``
+#### 2. Open ``ChatBot_NLP.ipynb``
 You can open the ``.ipynb`` file using [Google Collab](https://colab.research.google.com/) or Jupyter Notebook.<br>
 Don't have **Jupyter Notebook**? Don't worry, run the following commands and you're good to go 🚀 
 > **$ pip install notebook** <br>
 > **$ jupyter notebook**<br>
 
-#### 3. Execute all the cells consecutively to see the accurecy of all model and the graphical reprentaion of the data.
+#### 3. Execute all the cells consecutively to run the chatbot application.
 
-#### 4. After fireing the queries, at the end of all the algorithms we will be able to predict if the diagnosis is malignant or benign.
+#### 4. After fireing the queries, at the end a bot will provide response according to user's query.
 
-## Results
-Algorithm | Accuracy
------------- | -------------
-Logistic Regression | 96.49%
-Random Forest | 96.49%
-Artifical Neural Network | 98.36%
-Final Logistic Regression | 95.56%
-
-<b>Final Logistic Regression is the model which I've trained after finding the best parameters to train the model.</b>
+## Video Demonstartion
 
 ## Facing any issues???
 Feel free to [open an issue](https://github.com/iamdhrutipatel/Chater/issues/new?assignees=&labels=Query&title=Query). I'll be glad to help you.❤️
