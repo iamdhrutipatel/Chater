@@ -1,16 +1,11 @@
 # Chater 💬
 A ChatBot 🤖 application using Natural Language Processing.
 
-## Explanation of the Project
-- First, I've trained my model with artifical neural network to predict, if it is a benign diagnosis or malignant diagnosis. In that learned so many things like how to deal with missing values or categorical values, etc.
+<img align=right height=300 width=400 alt="Chater-logo" src="https://user-images.githubusercontent.com/58872872/140696053-2079cb04-0700-4033-b6a6-aa420ab3a8b5.png">
 
-- Second, I've trained the model with logstic regression and random forest algorithms. Also, have done randomized search to find the best parameters to train the model.
+- The Dataset I've used to train the models is [here](https://github.com/iamdhrutipatel/Chater/blob/main/dialogs-data.txt).
 
-- The Dataset I've used to train my models is [here](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data).
-
-- To find artifical neural network trained model follow this [link](https://github.com/iamdhrutipatel/Breasttest/blob/main/Breast_Cancer_Prediction_ANN.ipynb).
-
-- To find logistic regression and random forest trained model follow this [link](https://github.com/iamdhrutipatel/Breasttest/blob/main/Breast_Cancer_Prediction_LR_RF.ipynb).
+- You can find .ipynb file of the project from [here](https://github.com/iamdhrutipatel/Chater/blob/main/ChatBot_NLP.ipynb).
   
 ## Libraries Used
 Libraries used in this project are as follows:
@@ -35,6 +30,7 @@ Don't have **Jupyter Notebook**? Don't worry, run the following commands and you
 #### 4. After fireing the queries, at the end a bot will provide response according to user's query.
 
 ## Video Demonstartion
+You can find the video of running application from [here](https://github.com/iamdhrutipatel/Chater/blob/main/Implementation%20Video.mov).
 
 ## Facing any issues???
 Feel free to [open an issue](https://github.com/iamdhrutipatel/Chater/issues/new?assignees=&labels=Query&title=Query). I'll be glad to help you.❤️
