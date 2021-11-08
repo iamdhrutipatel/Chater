@@ -27,7 +27,7 @@ Don't have **Jupyter Notebook**? Don't worry, run the following commands and you
 
 #### 3. Execute all the cells consecutively to run the chatbot application.
 
-#### 4. After fireing the queries, at the end a bot will provide response according to user's query.
+#### 4. After firing the queries, at the end a bot will provide response according to user's query.
 
 ## Video Demonstartion
 You can find the video of running application from [here](https://github.com/iamdhrutipatel/Chater/blob/main/Implementation%20Video.mov).
